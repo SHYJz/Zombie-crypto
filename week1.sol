@@ -1,5 +1,4 @@
-# Zombie-crypto
-
+// Zombie-crypto
 pragma solidity ^0.4.19;
 
 contract ZombieFactory {
